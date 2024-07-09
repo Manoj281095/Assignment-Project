@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Automation Session\\OrangeHRMAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|c:\\automation session\\orangehrmassignment\\orangehrm\\test\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\test\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|c:\\automation session\\orangehrmassignment\\orangehrm\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|c:\\automation session\\orangehrmassignment\\orangehrm\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|c:\\automation session\\orangehrmassignment\\orangehrm\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|c:\\automation session\\orangehrmassignment\\orangehrm\\base\\automation wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E136B0-33AF-4D3E-BF74-8A37D770B2DA}|OrangeHRM\\OrangeHRM.csproj|solutionrelative:orangehrm\\base\\automation wrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Test\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Test\\AddEmployee.cs",
+              "ToolTip": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Test\\AddEmployee.cs",
+              "RelativeToolTip": "OrangeHRM\\Test\\AddEmployee.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwCcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:05:37.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Test\\LoginTest.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Test\\LoginTest.cs",
+              "ToolTip": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Test\\LoginTest.cs",
+              "RelativeToolTip": "OrangeHRM\\Test\\LoginTest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIBJwBwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:50:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Pages\\MainPage.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Pages\\MainPage.cs",
+              "ToolTip": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Pages\\MainPage.cs",
+              "RelativeToolTip": "OrangeHRM\\Pages\\MainPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:14:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "OrangeHRM\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:08:28.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Automation Wrapper.cs",
+              "DocumentMoniker": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Base\\Automation Wrapper.cs",
+              "RelativeDocumentMoniker": "OrangeHRM\\Base\\Automation Wrapper.cs",
+              "ToolTip": "C:\\Automation Session\\OrangeHRMAssignment\\OrangeHRM\\Base\\Automation Wrapper.cs",
+              "RelativeToolTip": "OrangeHRM\\Base\\Automation Wrapper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:53:47.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
